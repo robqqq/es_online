@@ -58,3 +58,5 @@ gen
 
 help
 *.zip
+*.log
+.vscode
